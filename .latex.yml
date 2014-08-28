@@ -1,1 +1,2 @@
 root_file: thesis.tex
+compiler: xelatex
